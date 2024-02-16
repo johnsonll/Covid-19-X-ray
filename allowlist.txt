@@ -1,0 +1,7 @@
+cf.shopee.tw
+self.events.data.microsoft.com
+fonts.gstatic.com
+setn.com
+cdn.spectrumcustomizer.com
+prod.rewardsplatform.microsoft.com
+is1-ssl.mzstatic.com
